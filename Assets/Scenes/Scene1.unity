@@ -516,7 +516,7 @@ MonoBehaviour:
   defaultOffset: {x: 500, y: 500, z: 0}
   baseTilemaps:
   - {fileID: 36897954349835023, guid: 66fc619047ff3445ca25fc3298699bbf, type: 3}
-  - {fileID: 7121545356766290019, guid: d32261ee9d9214d5b8fd5140fae054c9, type: 3}
+  - {fileID: 7121545356766290019, guid: bfb1c93e10e804230ba3076e82948726, type: 3}
   baseTiles:
   - {fileID: 11400000, guid: 5433e6e5e9973d744a11b01f2760070e, type: 2}
   - {fileID: 11400000, guid: 81052d339335c554ba1ce05cdce3139f, type: 2}
