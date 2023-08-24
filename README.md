@@ -1,6 +1,4 @@
 # THE OTHER
-Enjoy a maze in THE OTHER world.
-
 
 This is a maze with THE OTHER world.
 
